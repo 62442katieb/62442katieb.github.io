@@ -2,8 +2,7 @@
 layout: home
 title: KLB PhD
 landing-title: 'Hi, my name is Katie.'
-description: I am a researcher studying environmental and endocrine influences on child and adolescent brain development.
-
+description: null
 image: null
 author: null
 show_tile: false
