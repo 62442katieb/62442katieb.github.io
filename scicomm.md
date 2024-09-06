@@ -1,5 +1,5 @@
 ---
-title: Scientific Communication
+title: Scientific Communication (WIP)
 layout: landing
 description: 'My portfolio of scientific communication and educational content.'
 image: assets/images/undraw_creative_experiment_8dk3.png
